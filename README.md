@@ -1,24 +1,16 @@
-# Banco Python
+﻿# BancoPython
 
-Um sistema bancário desenvolvido em Python como projeto de aprendizado e prática de lógica de programação.
+Sistema bancário desenvolvido em Python como projeto de aprendizado.
 
-## Funcionalidades
+## Versões
 
-- Consulta de saldo.
-- Depósitos.
-- Saques.
-- Validação de valores.
-- Tratamento de entradas inválidas.
-- Extrato bancário.
+- [Versão 1](./banco.py): primeira implementação.
+- [Versão 2](./v.2/): sistema com módulos separados e persistência de dados em JSON.
 
-## Tecnologias utilizadas
-
-- Python 3
+## Tecnologias
+- Python
+- JSON
+- Git e GitHub
 
 ## Objetivo
-
-Praticar conceitos fundamentais de programação, como estruturas condicionais, estruturas de repetição, listas, tratamento de exceções e manipulação de dados.
-
-## Status
-
-Versão 1.0: funcionalidades bancárias básicas implementadas.
+Documentar minha evolução no desenvolvimento de software.
